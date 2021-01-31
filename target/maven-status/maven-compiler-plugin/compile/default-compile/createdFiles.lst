@@ -2,3 +2,5 @@ com\example\demo\DemoController.class
 com\example\demo\DemoApplication.class
 com\example\demo\User.class
 com\example\demo\UserList.class
+com\example\demo\VesselRequest.class
+com\example\demo\Vessel.class

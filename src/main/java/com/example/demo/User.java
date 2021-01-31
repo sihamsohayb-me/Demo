@@ -4,8 +4,8 @@ import lombok.Data;
 
 @Data
 public class User {
-    private int userId;
-    private int id;
+    private Integer userId;
+    private Integer id;
     private String title;
     private Boolean completed;
 }
